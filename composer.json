@@ -20,6 +20,6 @@
         "php": "^8.0",
         "league/flysystem": "^3.0",
         "guzzlehttp/guzzle": "^7.0.1",
-        "microsoft/microsoft-graph": "^1.70"
+        "microsoft/microsoft-graph": "^2.0"
     }
 }
