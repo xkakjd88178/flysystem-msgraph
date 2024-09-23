@@ -1,5 +1,5 @@
 {
-    "name": "shitware-ltd/flysystem-msgraph",
+    "name": "xkakjd88178/flysystem-msgraph",
     "type": "library",
     "description": "A Flysystem 3.0 adapter for Sharepoint 365 / OneDrive using Microsoft Graph API with support for uploading large files",
     "license": "MIT",
@@ -13,7 +13,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "ShitwareLtd\\FlysystemMsGraph\\": "src/"
+            "xkakjd88178\\FlysystemMsGraph\\": "src/"
         }
     },
     "require": {
